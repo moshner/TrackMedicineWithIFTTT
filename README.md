@@ -44,4 +44,4 @@ Detailed Steps
 
 9. Press the button each time you take your pills
 
-[icon-phone-medicine]: /icon-phone-medine--black.png "Track Your Medicine"
+[icon-phone-medicine]: /icon-phone-medicine--black.png "Track Your Medicine"
